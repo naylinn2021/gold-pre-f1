@@ -9,7 +9,7 @@ function smotor() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn4.aluku91.foundation/linea8.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function daznf1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd|drmScheme=clearkey&drmLicense=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd?|&drmScheme=clearkey&drmLicense=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function outdoo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8|&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
