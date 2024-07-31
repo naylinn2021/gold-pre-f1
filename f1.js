@@ -8,11 +8,9 @@ function sky2f1() {
 function smotor() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn4.aluku91.foundation/linea8.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+
 function daznf1() {
- document.getElementById("objek").innerHTML = '<iframe src="intent://927764536234165419.ofds0401.xyz:80/play/fe715725/3pTCaErhC6/165419.ts#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
-};
-function celestialmoviech1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd?|referer=https://www.visionplus.id&drmScheme=clearkey&drmLicense=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd|&drmScheme=clearkey&drmLicense=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function love() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8|referer=https://www.cxtvlive.com/origin=https://www.cxtvlive.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
