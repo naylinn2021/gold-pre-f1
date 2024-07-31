@@ -1,12 +1,12 @@
-function natgeowild() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://bkm.beetv.kz/btv/live/hls/000004474.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+function skyf1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn.aluku91.online/uk-skysportf1.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
-function discovery() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://livedth.95tv.live/memfs/ce44af6c-8fd9-4cce-8277-ea367e4ad5fd.m3u8|referer=https://live.95tv.live/origin=https://live.95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+function sky2f1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56606&extension=ts#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function history() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+function daznf1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=55560&extension=ts#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function outdoo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8|&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
