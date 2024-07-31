@@ -10,7 +10,7 @@ function smotor() {
 };
 
 function daznf1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function love() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8|referer=https://www.cxtvlive.com/origin=https://www.cxtvlive.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
