@@ -1,5 +1,5 @@
 function home() {
-  document.getElementById("objek").innerHTML = '<iframe src="https://goldtv-g-tv-pro.static.hf.space/index.html" height="0" width="0" style="border:none;"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="https://goldtv-g-tv-pro.static.hf.space/index.html"></iframe>'
 };
 
 function skyf1() {
